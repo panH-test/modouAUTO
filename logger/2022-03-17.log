@@ -1,0 +1,31 @@
+2022-03-17 14:52:17,183 INFO [root] [baseOperate.py (__init__:22] - Init a mobileDriver.
+2022-03-17 14:52:17,276 INFO [root] [baseOperate.py (get_element:45] - Had find the element '  ' successful by id via value: com.wantong.yijian:id/tv_positive 
+2022-03-17 14:52:17,803 INFO [root] [baseOperate.py (click:120] - click element css
+2022-03-17 14:52:20,894 ERROR [root] [baseOperate.py (get_element:47] - NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+2022-03-17 14:57:05,105 INFO [root] [baseOperate.py (__init__:22] - Init a mobileDriver.
+2022-03-17 14:57:05,260 INFO [root] [baseOperate.py (get_element:45] - Had find the element '  ' successful by id via value: com.wantong.yijian:id/tv_positive 
+2022-03-17 14:57:05,735 INFO [root] [baseOperate.py (click:120] - click element css
+2022-03-17 14:57:08,786 INFO [root] [baseOperate.py (get_element:45] - Had find the element ' 允许 ' successful by id via value: com.android.permissioncontroller:id/permission_allow_button 
+2022-03-17 14:57:11,030 INFO [root] [baseOperate.py (click:120] - click element css
+2022-03-17 14:57:17,597 INFO [root] [baseOperate.py (get_element:45] - Had find the element '  ' successful by id via value: com.wantong.yijian:id/tab3 
+2022-03-17 14:57:18,278 INFO [root] [baseOperate.py (click:120] - click element css
+2022-03-17 14:57:22,284 INFO [root] [baseOperate.py (get_element:87] - Had find the element ' 请点击登录 ' successful by xpath via value: //android.widget.TextView[@text='请点击登录'] 
+2022-03-17 14:57:22,518 INFO [root] [baseOperate.py (click:120] - click element css
+2022-03-17 14:57:32,616 INFO [root] [baseOperate.py (get_element:45] - Had find the element ' 请输入您的手机号 ' successful by id via value: com.wantong.yijian:id/et_phone 
+2022-03-17 14:57:42,154 INFO [root] [baseOperate.py (type:249] -  Input text 19900000001 to id=>com.wantong.yijian:id/et_phone element.
+2022-03-17 14:57:45,249 INFO [root] [baseOperate.py (get_element:45] - Had find the element ' 请输入收到的验证码 ' successful by id via value: com.wantong.yijian:id/et_code 
+2022-03-17 14:57:51,750 INFO [root] [baseOperate.py (type:249] -  Input text 123456 to id=>com.wantong.yijian:id/et_code element.
+2022-03-17 15:09:38,973 INFO [root] [baseOperate.py (__init__:22] - Init a mobileDriver.
+2022-03-17 15:09:39,080 INFO [root] [baseOperate.py (get_element:45] - Had find the element '  ' successful by id via value: com.wantong.yijian:id/tv_positive 
+2022-03-17 15:09:39,526 INFO [root] [baseOperate.py (click:120] - click element css
+2022-03-17 15:09:42,577 INFO [root] [baseOperate.py (get_element:45] - Had find the element ' 允许 ' successful by id via value: com.android.permissioncontroller:id/permission_allow_button 
+2022-03-17 15:09:44,826 INFO [root] [baseOperate.py (click:120] - click element css
+2022-03-17 15:09:48,560 INFO [root] [baseOperate.py (get_element:45] - Had find the element '  ' successful by id via value: com.wantong.yijian:id/tab3 
+2022-03-17 15:09:49,427 INFO [root] [baseOperate.py (click:120] - click element css
+2022-03-17 15:09:56,182 INFO [root] [baseOperate.py (get_element:87] - Had find the element ' 请点击登录 ' successful by xpath via value: //android.widget.TextView[@text='请点击登录'] 
+2022-03-17 15:09:59,431 INFO [root] [baseOperate.py (click:120] - click element css
+2022-03-17 15:10:09,500 INFO [root] [baseOperate.py (get_element:45] - Had find the element ' 请输入您的手机号 ' successful by id via value: com.wantong.yijian:id/et_phone 
+2022-03-17 15:10:18,863 INFO [root] [baseOperate.py (type:249] -  Input text 19900000001 to id=>com.wantong.yijian:id/et_phone element.
+2022-03-17 15:10:21,974 INFO [root] [baseOperate.py (get_element:45] - Had find the element ' 请输入收到的验证码 ' successful by id via value: com.wantong.yijian:id/et_code 
+2022-03-17 15:10:27,808 INFO [root] [baseOperate.py (type:249] -  Input text 123456 to id=>com.wantong.yijian:id/et_code element.
